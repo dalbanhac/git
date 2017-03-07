@@ -1,1 +1,4 @@
-Simon est con
+function sayHello
+{
+	alert("Hello");
+}
